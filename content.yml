@@ -9,16 +9,23 @@ galleries:
     fata:
         title: Fata
         images:
-            käytävä2:
-                title: Käytävä II
-                description: Photo + Photoshop.
-                image: digital/KäytäväII.jpg
-                thumb: digital/KäytäväII_t.jpg 
             equassus:
                 title: Equassus
                 description: Acrylic on paper, Photoshop.
                 image: digital/Equassus.jpg
                 thumb: digital/Equassus_t.jpg 
+                splash: true
+            deadsea:
+                title: Dead Sea
+                description: Photoshop.
+                image: digital/deadsea.jpg
+                thumb: digital/deadsea_t.jpg 
+                splash: true                
+            käytävä2:
+                title: Käytävä II
+                description: Photo + Photoshop.
+                image: digital/KäytäväII.jpg
+                thumb: digital/KäytäväII_t.jpg 
             snowblind:
                 title: Snowblind
                 description: Photo + Photoshop.
@@ -64,7 +71,6 @@ galleries:
                 description: Modeling/clothing by <a href='http://www.modelmayhem.com/94499'>Cecilia</a>
                 image: photo/Thornwood.jpg
                 thumb: photo/Thornwood_t.jpg
-                splash: true
                 
             funeralbride: 
                 title: Funeral Bride
