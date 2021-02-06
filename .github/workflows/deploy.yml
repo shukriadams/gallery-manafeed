@@ -5,13 +5,14 @@ on:
       - '*'
 jobs:
   build:
-    runs-on: shukriadams/node8build:0.0.3
+    runs-on: ubuntu-latest
+    services:
+        node:
+          image: shukriadams/node10build:0.0.3    
     steps:
       - uses: actions/checkout@v1
       - name: deploys latest version of gallery
-        run: |
-            sshpass -p ${PASSWORD} rsync --recursive --times --compress --delete --progress ./ ${USERNAME}@${HOST}:/srv/manafeed-gallery/ 
-            sshpass -p ${PASSWORD} cd /srv/manafeed-gallery && docker-compose down && docker-compose up -d
+        run: docker run -e HOST -e USERNAME -e PASSWORD -v $(pwd):/tmp/gallery shukriadams/node10build:0.0.3 sh -c "cd /tmp/gallery && sshpass -p ${PASSWORD} rsync --recursive --times --compress --delete --progress ./ ${USERNAME}@${HOST}:/srv/manafeed-gallery/ sshpass -p ${PASSWORD} cd /srv/manafeed-gallery && docker-compose down && docker-compose up -d"
         env:
             HOST: ${{ secrets.HOST }}
             USERNAME: ${{ secrets.USERNAME }}
