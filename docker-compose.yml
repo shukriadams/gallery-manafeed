@@ -5,7 +5,7 @@ services:
         container_name: gallery
         restart: unless-stopped
         ports:
-        - 47011:8030
+        - 47012:8030
         user: "${UID}:${GID}"
         volumes:
          - ./content.yml:/usr/app/settings.yml
