@@ -1,0 +1,12 @@
+version: "2"
+services:
+    gallery:
+        image: shukriadams/gallery:0.0.1
+        container_name: gallery
+        restart: unless-stopped
+        ports:
+        - 47011:8030
+        user: "${UID}:${GID}"
+        volumes:
+         - ./content.yml:/usr/app/settings.yml
+         - ./content:/usr/app/client/portfolio:rw

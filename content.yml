@@ -1,0 +1,420 @@
+title: manafeed
+subtitle: art by shukri adams
+description: Art by Shukri Adams
+keywords: Manafeed, Shukri Adams, Shukri, Adams, photographer, photography, dark, art, surreal, horror, melancholy
+googleAnalyticsCode: UA-1901384-3
+facebookAppId: 140032826030820
+galleries:
+
+    fata:
+        title: Fata
+        images:
+            käytävä2:
+                title: Käytävä II
+                description: Photo + Photoshop.
+                image: digital/KäytäväII.jpg
+                thumb: digital/KäytäväII_t.jpg 
+            equassus:
+                title: Equassus
+                description: Acrylic on paper, Photoshop.
+                image: digital/Equassus.jpg
+                thumb: digital/Equassus_t.jpg 
+            snowblind:
+                title: Snowblind
+                description: Photo + Photoshop.
+                image: digital/Snowblind.jpg
+                thumb: digital/Snowblind_t.jpg 
+            devilyouknew:
+                title: The devil you knew
+                description: Photoshop.
+                image: digital/devilyouknew.jpg
+                thumb: digital/devilyouknew_t.jpg 
+            equassus2:
+                title: Equassus II
+                description: Photoshop.
+                image: digital/EquassusII.jpg
+                thumb: digital/EquassusII_t.jpg 
+            supercell:
+                title: Supercell
+                description: Photoshop.
+                image: digital/Supercell.jpg
+                thumb: digital/Supercell_t.jpg
+            tether:
+                title: Tether
+                image: digital/Tether.jpg
+                thumb: digital/Tether_t.jpg
+            yearn:
+                title: Yearn
+                image: digital/Yearn.jpg
+                thumb: digital/Yearn_t.jpg
+            kaamos2:
+                title: Kaamos II
+                image: digital/KaamosII.jpg
+                thumb: digital/KaamosII_t.jpg
+            käytävä:
+                title: Käytävä
+                image: photo/Käytävä.jpg
+                thumb: photo/Käytävä_t.jpg
+    
+    alive: 
+        title: Alive
+        images:
+            thornwood: 
+                title: Thornwood
+                description: Modeling/clothing by <a href='http://www.modelmayhem.com/94499'>Cecilia</a>
+                image: photo/Thornwood.jpg
+                thumb: photo/Thornwood_t.jpg
+                splash: true
+                
+            funeralbride: 
+                title: Funeral Bride
+                description: Modeling/clothing by <a href='http://www.modelmayhem.com/94499'>Cecilia</a>
+                image: photo/FuneralBride.jpg
+                thumb: photo/FuneralBride_t.jpg
+
+            untitle3: 
+                title: Untitled3
+                description: Modeling/clothing by <a href='http://www.modelmayhem.com/94499'>Cecilia</a>
+                image: photo/ph3.jpg
+                thumb: photo/ph3_t.jpg
+                    
+            puncture: 
+                title: Puncture
+                image: photo/Puncture.jpg
+                thumb: photo/Puncture_t.jpg
+                   
+            J9ohZ: 
+                title: Untitled6
+                description: Modeling/clothing by <a href='http://www.modelmayhem.com/94499'>Cecilia</a>
+                image: photo/ph6.jpg
+                thumb: photo/ph6_t.jpg
+
+    city:
+        title: City
+        images:
+            rainforweeks:
+                title: Rain that falls for weeks
+                image: photo/Rainforweeks.jpg
+                thumb: photo/Rainforweeks_t.jpg
+            occulus:
+                title: Occulus
+                image: photo/Occulus.jpg
+                thumb: photo/Occulus_t.jpg              
+            spire:
+                title: Spire
+                image: photo/Spire.jpg
+                thumb: photo/Spire_t.jpg                  
+            turbulence:
+                title: Turbulence
+                image: photo/Turbulence.jpg
+                thumb: photo/Turbulence_t.jpg    
+            intransit:
+                title: In transit
+                image: photo/Intransit.jpg
+                thumb: photo/Intransit_t.jpg  
+            7S6avA:
+                title: Untitled8
+                image: photo/ph14.jpg
+                thumb: photo/ph14_t.jpg  
+            intransit2:
+                title: In Transit II
+                image: photo/InTransitII.jpg
+                thumb: photo/InTransitII_t.jpg  
+            spires:
+                title: Spires
+                image: photo/Spires.jpg
+                thumb: photo/Spires_t.jpg  
+            colonnade:
+                title: Colonnade
+                image: photo/Colonnade.jpg
+                thumb: photo/Colonnade_t.jpg  
+            cyclist:
+                title: The cyclist
+                image: photo/Thecyclist.jpg
+                thumb: photo/Thecyclist_t.jpg  
+            uran:
+                title: Uran
+                image: photo/Uran.jpg
+                thumb: photo/Uran_t.jpg  
+            struct:
+                title: Struct
+                image: photo/Struct.jpg
+                thumb: photo/Struct_t.jpg  
+            struct2:
+                title: Struct II
+                image: photo/StructII.jpg
+                thumb: photo/StructII_t.jpg  
+            cyclist2:
+                title: The cyclist II
+                image: photo/ThecyclistII.jpg
+                thumb: photo/ThecyclistII_t.jpg  
+            stockholm:
+                title: Stockholm
+                image: photo/Stockholm.jpg
+                thumb: photo/Stockholm_t.jpg  
+            zUupU:
+                title: Untitled
+                image: photo/ph27.jpg
+                thumb: photo/ph27_t.jpg  
+            uran2:
+                title: Uran II
+                image: photo/UranII.jpg
+                thumb: photo/UranII_t.jpg  
+            babel:
+                title: Babel
+                image: photo/Babel.jpg
+                thumb: photo/Babel.jpg
+            rust2:
+                title: Rust II
+                image: photo/RustII.jpg
+                thumb: photo/RustII.jpg                    
+
+    dead:
+        title: Dead
+        images:
+            begravelsesnatt:
+                title: Begravelsesnatt
+                image: photo/Begravelsesnatt.jpg
+                thumb: photo/Begravelsesnatt_t.jpg  
+            doyoudream:
+                title: Do you dream
+                image: photo/Doyoudream.jpg
+                thumb: photo/Doyoudream_t.jpg  
+            meaningschange:
+                title: Meanings change
+                image: photo/Meaningschange.jpg
+                thumb: photo/Meaningschange_t.jpg  
+            pauper:
+                title: Pauper
+                image: photo/Pauper.jpg
+                thumb: photo/Pauper_t.jpg  
+            deadyetdreaming:
+                title: Dead yet dreaming
+                image: photo/Deadyetdreaming.jpg
+                thumb: photo/Deadyetdreaming_t.jpg  
+            standablaze:
+                title: Stand ablaze
+                image: photo/Standablaze.jpg
+                thumb: photo/Standablaze_t.jpg  
+            float:
+                title: Float
+                image: photo/Float.jpg
+                thumb: photo/Float_t.jpg  
+            XdHVl:
+                title: Untitled
+                image: photo/ph40.jpg
+                thumb: photo/ph40_t.jpg  
+            heliophagus:
+                title: Heliophagus
+                image: photo/Heliophagus.jpg
+                thumb: photo/Heliophagus_t.jpg 
+            kaamos:
+                title: Kaamos
+                image: photo/Kaamos.jpg
+                thumb: photo/Kaamos_t.jpg 
+            thicket1:
+                title: Thicket 1
+                image: photo/Thicket1.jpg
+                thumb: photo/Thicket1_t.jpg 
+            thicket2:
+                title: Thicket 2
+                image: photo/Thicket2.jpg
+                thumb: photo/Thicket2_t.jpg 
+            thicket3:
+                title: Thicket 3
+                image: photo/Thicket3.jpg
+                thumb: photo/Thicket3_t.jpg 
+
+    delirium:
+        title: Delirium
+        images:
+            darkisthereich:
+                title: Dark, is the reich of the dead
+                image: film/darkisthereich.jpg
+                thumb: film/darkisthereich_t.jpg  
+            marble:
+                title: Marble
+                image: photo/Marble.jpg
+                thumb: photo/Marble_t.jpg  
+            BL2oIR:
+                title: Untitled
+                image: photo/ph51.jpg
+                thumb: photo/ph51_t.jpg  
+            ORECn:
+                title: Untitled
+                image: film/ph52.jpg
+                thumb: film/ph52_t.jpg  
+            0WM2w:
+                title: Untitled
+                image: film/ph53.jpg
+                thumb: film/ph53_t.jpg  
+            78E4gD:
+                title: Untitled
+                image: film/ph54.jpg
+                thumb: film/ph54_t.jpg  
+            d356:
+                title: Untitled
+                image: film/ph55.jpg
+                thumb: film/ph55_t.jpg  
+            8b7c:
+                title: Untitled
+                image: film/ph56.jpg
+                thumb: film/ph56_t.jpg  
+    details:
+        title: Details
+        images:
+            OFj8Ch:
+                title: Untitled
+                image: photo/ph58.jpg
+                thumb: photo/ph58_t.jpg  
+            X704YZn:
+                title: Untitled
+                image: photo/ph59.jpg
+                thumb: photo/ph59_t.jpg  
+            c2ydUK:
+                title: Untitled
+                image: photo/ph60.jpg
+                thumb: photo/ph60_t.jpg  
+            TJ0LL:
+                title: Untitled
+                image: construct/ph61.jpg
+                thumb: construct/ph61_t.jpg  
+            o0hhl1J:
+                title: Untitled
+                image: photo/ph62.jpg
+                thumb: photo/ph62_t.jpg  
+            NZsbn:
+                title: Untitled
+                image: photo/ph63.jpg
+                thumb: photo/ph63_t.jpg  
+            Cd47k:
+                title: Untitled
+                image: photo/ph64.jpg
+                thumb: photo/ph64_t.jpg  
+            wxZIzew:
+                title: Untitled
+                image: photo/ph65.jpg
+                thumb: photo/ph65_t.jpg  
+            rust:
+                title: Rust
+                image: photo/Rust.jpg
+                thumb: photo/Rust_t.jpg  
+            duct:
+                title: Duct
+                image: photo/Duct.jpg
+                thumb: photo/Duct_t.jpg  
+            suspense:
+                title: Suspense
+                image: photo/Suspense.jpg
+                thumb: photo/Suspense_t.jpg  
+            IMKxki:
+                title: Untitled
+                image: photo/ph70.jpg
+                thumb: photo/ph70_t.jpg  
+
+    live:
+        title: Live
+        images:
+            amonamarth1:
+                title: Amon Amarth
+                description: Live in Copenhagen. 2009.
+                image: live/AmonAmarth09_01.jpg
+                thumb: live/AmonAmarth09_01_t.jpg
+            entombed1:
+                title: Entombed
+                description: Live in Copenhagen. 2009.
+                image: live/Entombed09_01.jpg
+                thumb: live/Entombed09_01_t.jpg
+            entombed2:
+                title: Entombed
+                description: Live in Copenhagen. 2009.
+                image: live/Entombed09_02.jpg
+                thumb: live/Entombed09_02_t.jpg
+            amonamarth2:
+                title: Amon Amarth
+                description: Live at Roskilde. 2009.
+                image: live/AmonAmarth09_02.jpg
+                thumb: live/AmonAmarth09_02_t.jpg
+            amonamarth3:
+                title: Amon Amarth
+                description: Live at Roskilde. 2009.
+                image: live/AmonAmarth09_03.jpg
+                thumb: live/AmonAmarth09_03_t.jpg
+            amonamarth4:
+                title: Amon Amarth
+                description: Live at Roskilde. 2009.
+                image: live/AmonAmarth09_04.jpg
+                thumb: live/AmonAmarth09_04_t.jpg
+            satyricon:
+                title: Satyricon
+                description: Live at Roskilde. 2009.
+                image: live/Satyricon09_01.jpg
+                thumb: live/Satyricon09_01_t.jpg
+
+
+links:
+    <h2>Partners in crime</h2>
+    <hr />
+    <p>
+        <a href="http://www.modelmayhem.com/94499">Cecilia</a><br/>
+    </p>
+    <h2>Artists I like</h2>
+    <hr />
+    <p>
+        <a href="http://www.beksinski.pl">Zdzislaw Beksinski</a><br/>
+        <a href="http://www.hrgiger.com">H.R Giger</a><br/>
+        <a href="http://www.lassehoile.com">Lasse Hoile</a><br/>
+        <a href="http://stephenkasner.com">Stephen Kasner</a><br/>
+        <a href="http://kuksi.com/">Kris Kuksi</a><br/>
+        <a href="http://www.vincelocke.com">Vince Locke</a><br/>
+        <a href="http://www.ashleywoodartist.com">Ashley Wood</a><br/>
+        <a href="http://www.fredrikodman.se">Fredrik Ödman</a><br/>
+    </p>
+    <h2>Bands that inspire me</h2>
+    <hr />
+    <p>
+        <a href="http://www.amorphis.net">Amorphis</a><br/>
+        <a href="http://www.interpolnyc.com">Interpol</a><br/>
+        <a href="http://kent.nu">Kent</a><br/>
+        <a href="http://www.moonsorrow.com">Moonsorrow</a><br/>
+        <a href="http://www.tenhi.com">Tenhi</a><br/>
+        <a href="http://www.wolvesinthethroneroom.com">Wolves in the throne room</a><br/>
+    </p>
+    <p>
+        (in no particular order and by no means exhaustive)
+    </p>
+
+biog:
+    <p>
+        There isn't much to say really. I've lived in a few places like South Africa, Saudi Arabia and Denmark.
+        I'm a programmer, I studied zoology, and I do art for fun - serious fun.
+    </p>
+    <p>
+        I did some technical illustration at university,
+        started photography in 2007 when I got my first DSLR, and since then I drifted into
+        analog photography and then painting. And here I am.
+    </p>
+    <p>
+        My main influences are music, painters and movies. Most of my pieces are done in Photoshop, and
+        mix varying amounts of photo textures and digital painting. I shoot my own "stock".
+        I occasionally mix in traditional media like acrylics, oils and pens.
+    </p>
+
+    <h2>Contact</h2>
+    <hr />
+    <p>
+        You can reach me at <strong>shukri.adams /at/ gmail.com</strong>
+    </p>
+    <h2>I'm online elsewhere</h2>
+    <hr />
+    <p>
+        <a href="https://www.facebook.com/manafeed">Facebook</a><br/>
+        <a href="http://www.flickr.com/photos/innerfire">Flickr</a><br/>
+        <a href="http://www.last.fm/user/Snutskallar">Last.fm</a><br/>
+    </p>
+
+shop:
+    The shop is currently closed. Check back later.
+
+footer:
+    <div class="fb-page" data-href="https://www.facebook.com/manafeed" data-width="250" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/manafeed"><a href="https://www.facebook.com/manafeed">Shukri Adams - Art</a></blockquote></div></div>
